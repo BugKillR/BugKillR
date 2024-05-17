@@ -1,12 +1,10 @@
-<p> <h1 align="center"> Hi there, I'm Mert. </h1> </p>
+<p> <h1 align="center"> Hi there, I'm Bora. </h1> </p>
 
 
 
 <p align = "center">
-Coordinator at @overdrive_tr
-Mentor at @maximusrobotics 
-Game & Web Developer 
-3D Artist
+Student at Bahcesehir University 
+Game Developer
 </p>
 <br/>
 
