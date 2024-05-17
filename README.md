@@ -19,6 +19,8 @@ Game Developer
   
 <a href="https://www.blender.org" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="Blender3D" width="38"/></a>
+<a href="https://www.aseprite.org" target="blank">
+    <img align="center" src="https://updov.com/wp-content/uploads/2022/02/aseprite-download.png" alt="Python" width="38"/></a>
 
 <br/>
 <p> <h2 align="center">📈 Github Stats </h2> </p>
