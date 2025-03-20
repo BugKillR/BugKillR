@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a1733118-c48a-44e9-95e4-9791c034d102)<p> <h1 align="center"> Hi there, I'm Bora. </h1> </p>
+<p> <h1 align="center"> Hi there, I'm Bora. </h1> </p>
 
 <img align="center" src= https://i.pinimg.com/736x/ab/3e/7a/ab3e7a98f41e3016c1a3a20037e40425.jpg>
 
